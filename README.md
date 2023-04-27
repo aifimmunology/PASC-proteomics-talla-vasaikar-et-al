@@ -1,31 +1,22 @@
-# Persistent serum protein signatures define an inflammatory subset of long COVID
-Aarthi Talla †, Suhas V. Vasaikar †, Gregory Lee Szeto, Maria P. Lemos, Julie L. Czartoski,
-Hugh MacMillan, Zoe Moodie, Kristen W. Cohen, Lamar B. Fleming, Zachary Thomson,
-Lauren Okada, Lynne A. Becker, Ernest M. Coffey, Stephen C. De Rosa, Evan W. Newell,
-Peter J. Skene, Xiaojun Li, Thomas F. Bumol, M. Juliana McElrath, Troy R. Torgerson
+# Persistent serum protein signatures define an inflammatory subcategory of long COVID
 
-†These authors contributed equally to this work
+Aarthi Talla 1†, Suhas V. Vasaikar 1,2†, Gregory Lee Szeto1,2, Maria P. Lemos3, Julie L. Czartoski3, Hugh MacMillan3, Zoe Moodie3, Kristen W. Cohen3,4, Lamar B. Fleming3, Zachary Thomson1, Lauren Okada1, Lynne A. Becker1, Ernest M. Coffey1, Stephen C. De Rosa3, Evan W. Newell3, Peter J. Skene1, Xiaojun Li1, Thomas F. Bumol1*, M. Juliana McElrath2*, Troy R. Torgerson1*‡
 
-**One Sentence Summary:** Serum proteome profiling identifies subsets of long COVID patients
-with evidence of persistent inflammation including key immune signaling pathways that may be
-amenable to therapeutic intervention.
+Affiliations
+1Allen Institute for Immunology; Seattle, USA
+2Current Address: Seagen, Bothell, WA
+3Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Center, Seattle, USA
+4Current Address: Moderna, Cambridge, MA
+†Equally contributing authors     
+
+*Corresponding authors 
+Thomas F. Bumol	tbumol@gmail.com	
+M. Juliana McElrath	jmcelrat@fredhutch.org	
+Troy R. Torgerson	troy.torgerson@alleninstitute.org
+
 
 **ABSTRACT**
-Long COVID or post-acute sequelae of SARS-CoV-2 (PASC) is a clinical syndrome featuring
-diverse symptoms that can persist for months after acute SARS-CoV-2 infection. The etiologies
-are unknown but may include persistent inflammation, unresolved tissue damage, or delayed
-clearance of viral protein or RNA. Attempts to classify subsets of PASC by symptoms alone
-have been unsuccessful. To molecularly define PASC, we evaluated the serum proteome in
-longitudinal samples from 55 PASC individuals with symptoms lasting ≥60 days after onset of
-acute infection and compared this to symptomatically recovered SARS-CoV-2 infected and
-uninfected individuals. We identified subsets of PASC with distinct signatures of persistent
-inflammation. Type II interferon signaling and canonical NF-κB signaling (particularly
-associated with TNF), were the most differentially enriched pathways. These findings help to
-resolve the heterogeneity of PASC, identify patients with molecular evidence of persistent
-inflammation, and highlight dominant pathways that may have diagnostic or therapeutic
-relevance.
+Long COVID or post-acute sequelae of SARS-CoV-2 (PASC) is a clinical syndrome featuring diverse symptoms that can persist for months following acute SARS-CoV-2 infection. The aetiologies may include persistent inflammation, unresolved tissue damage or delayed clearance of viral protein or RNA, but the biological differences they represent are not fully understood. Here we evaluate the serum proteome in samples, longitudinally collected from 55 PASC individuals with symptoms lasting ≥60 days after onset of acute infection, in comparison to samples from symptomatically recovered SARS-CoV-2 infected and uninfected individuals. Our analysis indicates heterogeneity in PASC and identified subsets with distinct signatures of persistent inflammation. Type II interferon signaling and canonical NF-κB signaling (particularly associated with TNF), appear to be the most differentially enriched signaling pathways, distinguishing a group of patients characterized also by a persistent neutrophil activation signature. These findings help to clarify biological diversity within PASC, identify participants with molecular evidence of persistent inflammation, and highlight dominant pathways that may have diagnostic or therapeutic relevance, including a protein panel that we propose as diagnostic utility for differentiating inflammatory and non-inflammatory PASC.
 
 **REPOSITORY**
-This repository consists of the required input files and R-code to generate the figures of the manuscript.
-**-** Code chunks with the prefix 1-5 contains code for the Rule-in and module based approach to identify PASC clusters, corresponding to Figure 1A and Supplementary figure 3B
-**-** Code chunk with the prefix 6 contains code of the deeper dive olink analysis, antibody titer analysis and clinical activty score analysis post identifying PASC clusters, corresponding to all other figures of the manuscript
+This repository consists of the required input files, source data files and R-code to generate the figures of the manuscript.
