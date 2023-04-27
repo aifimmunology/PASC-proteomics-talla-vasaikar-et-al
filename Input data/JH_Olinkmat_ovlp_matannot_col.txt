@@ -1,0 +1,365 @@
+Subject	Healthy or INCOV	age	sex	BMI	DaysPSO	symptomatic	aWOS	clusterID3
+1004350	Healthy	32	Female	23.13	NA	Healthy	NA	D
+1010823	Healthy	64	Female	21.66	NA	Healthy	NA	D
+1013541	Healthy	41	Female	23.46	NA	Healthy	NA	D
+1016929	Healthy	49	Male	25.24	NA	Healthy	NA	C
+1019071	Healthy	53	Female	23.47	NA	Healthy	NA	D
+1024456	Healthy	58	Male	23.85	NA	Healthy	NA	D
+1025263	Healthy	38	Female	29.76	NA	Healthy	NA	B
+1027114	Healthy	54	Male	28.81	NA	Healthy	NA	A
+1027404	Healthy	40	Female	26.25	NA	Healthy	NA	C
+1029090	Healthy	70	Female	24.29	NA	Healthy	NA	C
+1029221	Healthy	46	Female	28.55	NA	Healthy	NA	C
+1037387	Healthy	53	Female	30.75	NA	Healthy	NA	B
+1038044	Healthy	42	Male	31.32	NA	Healthy	NA	C
+1049423	Healthy	56	Male	34.45	NA	Healthy	NA	C
+1051853	Healthy	66	Female	24.67	NA	Healthy	NA	B
+1057091	Healthy	38	Male	31.32	NA	Healthy	NA	C
+1057525	Healthy	67	Female	24.23	NA	Healthy	NA	C
+1065558	Healthy	40	Male	31.06	NA	Healthy	NA	B
+1066842	Healthy	70	Male	33.36	NA	Healthy	NA	C
+1068688	Healthy	38	Male	42.25	NA	Healthy	NA	C
+1070019	Healthy	41	Female	36.11	NA	Healthy	NA	C
+1072970	Healthy	33	Male	24.39	NA	Healthy	NA	C
+1075315	Healthy	59	Male	22.5	NA	Healthy	NA	D
+1075936	Healthy	25	Male	21.82	NA	Healthy	NA	C
+1080526	Healthy	44	Female	26.67	NA	Healthy	NA	C
+1082166	Healthy	54	Female	31.3	NA	Healthy	NA	C
+1084981	Healthy	51	Female	22.55	NA	Healthy	NA	D
+1089482	Healthy	41	Female	19.39	NA	Healthy	NA	C
+1097616	Healthy	58	Female	35.61	NA	Healthy	NA	C
+1099670	Healthy	31	Male	23.51	NA	Healthy	NA	B
+1099807	Healthy	49	Male	24.31	NA	Healthy	NA	C
+1100090	Healthy	47	Male	28.72	NA	Healthy	NA	C
+1100093	Healthy	49	Male	34.52	NA	Healthy	NA	C
+1104524	Healthy	61	Male	37.33	NA	Healthy	NA	C
+1108839	Healthy	38	Male	24.59	NA	Healthy	NA	D
+1114138	Healthy	45	Female	22.59	NA	Healthy	NA	C
+1118407	Healthy	23	Female	21.88	NA	Healthy	NA	C
+1126906	Healthy	49	Female	18.89	NA	Healthy	NA	C
+1127076	Healthy	39	Female	30.74	NA	Healthy	NA	C
+1129252	Healthy	32	Female	27.98	NA	Healthy	NA	B
+1129657	Healthy	59	Male	26.48	NA	Healthy	NA	C
+1130217	Healthy	53	Female	37.13	NA	Healthy	NA	C
+1134186	Healthy	40	Female	21.66	NA	Healthy	NA	B
+1134467	Healthy	72	Female	28.88	NA	Healthy	NA	C
+1157578	Healthy	48	Female	26.47	NA	Healthy	NA	C
+1165338	Healthy	62	Male	23.92	NA	Healthy	NA	C
+1166603	Healthy	49	Female	36.18	NA	Healthy	NA	D
+1167016	Healthy	59	Female	31.26	NA	Healthy	NA	D
+1167786	Healthy	44	Male	27.19	NA	Healthy	NA	B
+1169411	Healthy	54	Female	21.95	NA	Healthy	NA	C
+1169545	Healthy	69	Male	24.78	NA	Healthy	NA	C
+1173930	Healthy	56	Male	24.95	NA	Healthy	NA	C
+1175269	Healthy	58	Male	26.97	NA	Healthy	NA	D
+1179920	Healthy	78	Male	18.68	NA	Healthy	NA	D
+1180825	Healthy	37	Female	45	NA	Healthy	NA	B
+1183340	Healthy	55	Male	24.37	NA	Healthy	NA	B
+1184674	Healthy	61	Male	27.57	NA	Healthy	NA	B
+1188084	Healthy	39	Female	53.04	NA	Healthy	NA	C
+1192115	Healthy	33	Female	38.37	NA	Healthy	NA	C
+1199448	Healthy	40	Female	43.27	NA	Healthy	NA	D
+1200802	Healthy	42	Male	31.3	NA	Healthy	NA	C
+1202606	Healthy	26	Male	21.81	NA	Healthy	NA	B
+1203070	Healthy	43	Female	26.26	NA	Healthy	NA	B
+1215298	Healthy	40	Male	32.63	NA	Healthy	NA	B
+1216584	Healthy	48	Male	25.8	NA	Healthy	NA	C
+1216764	Healthy	29	Female	26.92	NA	Healthy	NA	C
+1220660	Healthy	34	Male	22.03	NA	Healthy	NA	C
+1220747	Healthy	42	Female	24.03	NA	Healthy	NA	C
+1221615	Healthy	58	Female	40.34	NA	Healthy	NA	C
+1226903	Healthy	51	Male	36.18	NA	Healthy	NA	C
+1227854	Healthy	48	Male	29.15	NA	Healthy	NA	C
+1230333	Healthy	75	Female	20.77	NA	Healthy	NA	C
+1231638	Healthy	51	Male	38.01	NA	Healthy	NA	C
+1234668	Healthy	24	Female	22.54	NA	Healthy	NA	C
+1236520	Healthy	54	Female	22.38	NA	Healthy	NA	D
+1241681	Healthy	50	Male	25.75	NA	Healthy	NA	D
+1257245	Healthy	54	Female	39.2	NA	Healthy	NA	C
+1262983	Healthy	47	Male	23.23	NA	Healthy	NA	C
+1263493	Healthy	23	Male	22.99	NA	Healthy	NA	B
+1268471	Healthy	27	Female	25.89	NA	Healthy	NA	D
+1268568	Healthy	78	Female	22.6	NA	Healthy	NA	C
+1275666	Healthy	32	Female	20.99	NA	Healthy	NA	D
+1279889	Healthy	62	Female	30.1	NA	Healthy	NA	B
+1285204	Healthy	68	Female	19.52	NA	Healthy	NA	C
+1286934	Healthy	26	Male	26.1	NA	Healthy	NA	C
+1288022	Healthy	78	Male	25.8	NA	Healthy	NA	B
+1304906	Healthy	49	Male	27.37	NA	Healthy	NA	C
+1304992	Healthy	47	Female	37.32	NA	Healthy	NA	C
+1305376	Healthy	68	Male	26.53	NA	Healthy	NA	C
+1308730	Healthy	50	Male	32.04	NA	Healthy	NA	C
+1310126	Healthy	80	Female	24.21	NA	Healthy	NA	C
+1310874	Healthy	75	Female	29	NA	Healthy	NA	D
+1313904	Healthy	62	Male	26.92	NA	Healthy	NA	D
+1316569	Healthy	53	Male	28.37	NA	Healthy	NA	B
+1319761	Healthy	59	Male	30.64	NA	Healthy	NA	B
+1320194	Healthy	63	Male	25.13	NA	Healthy	NA	D
+1321856	Healthy	63	Male	23.29	NA	Healthy	NA	C
+1327998	Healthy	52	Male	26.13	NA	Healthy	NA	D
+1330626	Healthy	41	Male	23.3	NA	Healthy	NA	D
+1333878	Healthy	43	Male	40.16	NA	Healthy	NA	D
+1335458	Healthy	50	Female	27.46	NA	Healthy	NA	D
+1337814	Healthy	67	Female	41.11	NA	Healthy	NA	D
+1345295	Healthy	42	Female	20.63	NA	Healthy	NA	C
+1347882	Healthy	66	Male	25.97	NA	Healthy	NA	B
+1350228	Healthy	54	Female	26.14	NA	Healthy	NA	D
+1358815	Healthy	49	Female	24.85	NA	Healthy	NA	C
+1360677	Healthy	45	Female	36.75	NA	Healthy	NA	D
+1361259	Healthy	48	Male	27.61	NA	Healthy	NA	D
+1362364	Healthy	51	Female	37.99	NA	Healthy	NA	C
+1366706	Healthy	53	Female	24.97	NA	Healthy	NA	D
+1371698	Healthy	36	Male	26.5	NA	Healthy	NA	C
+1372136	Healthy	60	Female	25.59	NA	Healthy	NA	D
+1374976	Healthy	58	Male	24.05	NA	Healthy	NA	B
+1375514	Healthy	52	Female	20.73	NA	Healthy	NA	C
+1378108	Healthy	42	Female	30.21	NA	Healthy	NA	C
+1378885	Healthy	47	Male	33.16	NA	Healthy	NA	D
+1384009	Healthy	25	Female	17.14	NA	Healthy	NA	C
+1387787	Healthy	48	Female	23.26	NA	Healthy	NA	C
+1391396	Healthy	44	Female	44.93	NA	Healthy	NA	B
+1399040	Healthy	55	Male	23.84	NA	Healthy	NA	C
+1405352	Healthy	33	Male	36.15	NA	Healthy	NA	C
+1405538	Healthy	41	Female	24.71	NA	Healthy	NA	C
+1406300	Healthy	56	Female	24.05	NA	Healthy	NA	D
+1412088	Healthy	30	Female	23.05	NA	Healthy	NA	C
+1417884	Healthy	32	Male	25.82	NA	Healthy	NA	C
+1420162	Healthy	40	Male	22.56	NA	Healthy	NA	C
+1420546	Healthy	71	Female	26.62	NA	Healthy	NA	D
+1421882	Healthy	19	Female	23.29	NA	Healthy	NA	C
+1427135	Healthy	58	Male	25.36	NA	Healthy	NA	D
+1431546	Healthy	49	Female	36.8	NA	Healthy	NA	C
+1432046	Healthy	41	Female	22.08	NA	Healthy	NA	B
+1438254	Healthy	57	Female	25.69	NA	Healthy	NA	C
+1460209	Healthy	36	Female	21.41	NA	Healthy	NA	C
+1462140	Healthy	77	Female	27.92	NA	Healthy	NA	C
+1463442	Healthy	53	Male	25.82	NA	Healthy	NA	D
+1474458	Healthy	75	Female	31.34	NA	Healthy	NA	C
+1481374	Healthy	80	Female	22.13	NA	Healthy	NA	B
+1481827	Healthy	38	Female	19.67	NA	Healthy	NA	B
+1484820	Healthy	57	Male	23.95	NA	Healthy	NA	C
+1485130	Healthy	49	Male	24.48	NA	Healthy	NA	B
+1489890	Healthy	54	Female	27.07	NA	Healthy	NA	D
+1491050	Healthy	46	Female	24.95	NA	Healthy	NA	D
+1495386	Healthy	51	Male	31.19	NA	Healthy	NA	D
+1497790	Healthy	51	Female	17.74	NA	Healthy	NA	B
+1498819	Healthy	50	Female	24.2	NA	Healthy	NA	B
+1500905	Healthy	33	Male	23.82	NA	Healthy	NA	D
+1501052	Healthy	35	Female	26.09	NA	Healthy	NA	B
+1501750	Healthy	54	Female	23.03	NA	Healthy	NA	B
+1504004	Healthy	53	Female	48.51	NA	Healthy	NA	C
+1507409	Healthy	42	Female	28.78	NA	Healthy	NA	D
+1510963	Healthy	29	Female	22.66	NA	Healthy	NA	D
+1512820	Healthy	48	Female	46.62	NA	Healthy	NA	C
+1513501	Healthy	58	Male	30.96	NA	Healthy	NA	B
+1514398	Healthy	54	Female	22.55	NA	Healthy	NA	D
+1523770	Healthy	37	Female	28.07	NA	Healthy	NA	C
+1524948	Healthy	57	Female	23.62	NA	Healthy	NA	C
+1532234	Healthy	63	Female	22.31	NA	Healthy	NA	C
+1532385	Healthy	24	Female	32.24	NA	Healthy	NA	D
+1534026	Healthy	50	Female	36.03	NA	Healthy	NA	C
+1534594	Healthy	35	Female	23.82	NA	Healthy	NA	C
+1538140	Healthy	59	Female	31.85	NA	Healthy	NA	D
+1539774	Healthy	43	Female	38.73	NA	Healthy	NA	C
+1541442	Healthy	60	Female	35.87	NA	Healthy	NA	C
+1541786	Healthy	37	Male	23.95	NA	Healthy	NA	C
+1543273	Healthy	54	Female	30.72	NA	Healthy	NA	B
+1544466	Healthy	22	Male	25.51	NA	Healthy	NA	D
+1547734	Healthy	29	Male	29.07	NA	Healthy	NA	D
+1549186	Healthy	54	Female	27.98	NA	Healthy	NA	C
+1549888	Healthy	71	Female	31.79	NA	Healthy	NA	C
+1550067	Healthy	59	Female	31.17	NA	Healthy	NA	C
+1551894	Healthy	34	Female	26.83	NA	Healthy	NA	C
+1552328	Healthy	47	Female	23.29	NA	Healthy	NA	D
+1552698	Healthy	56	Female	21.38	NA	Healthy	NA	B
+1564778	Healthy	40	Female	48.8	NA	Healthy	NA	C
+1566332	Healthy	52	Female	32.27	NA	Healthy	NA	D
+1567650	Healthy	50	Female	18.9	NA	Healthy	NA	C
+1569807	Healthy	37	Female	35.9	NA	Healthy	NA	D
+1574176	Healthy	31	Male	22.47	NA	Healthy	NA	C
+1574520	Healthy	55	Male	26.77	NA	Healthy	NA	C
+1575601	Healthy	47	Male	25.77	NA	Healthy	NA	D
+1584890	Healthy	44	Female	21.54	NA	Healthy	NA	C
+1586834	Healthy	52	Female	49.92	NA	Healthy	NA	D
+1594640	Healthy	41	Female	24.44	NA	Healthy	NA	C
+1597155	Healthy	49	Female	26.39	NA	Healthy	NA	C
+1599865	Healthy	43	Male	38.87	NA	Healthy	NA	D
+1605145	Healthy	47	Male	27.5	NA	Healthy	NA	D
+1611163	Healthy	48	Female	46.34	NA	Healthy	NA	D
+1618533	Healthy	38	Female	28.56	NA	Healthy	NA	C
+1618914	Healthy	56	Female	21.24	NA	Healthy	NA	B
+1620794	Healthy	38	Female	28.16	NA	Healthy	NA	D
+1628142	Healthy	47	Female	22.13	NA	Healthy	NA	C
+1628648	Healthy	41	Female	30.8	NA	Healthy	NA	C
+1634198	Healthy	30	Female	23.6	NA	Healthy	NA	C
+1634953	Healthy	32	Male	22.78	NA	Healthy	NA	D
+1642371	Healthy	32	Female	23.91	NA	Healthy	NA	D
+1642695	Healthy	45	Female	25.84	NA	Healthy	NA	B
+1643636	Healthy	58	Male	24.42	NA	Healthy	NA	B
+1645027	Healthy	49	Male	27.53	NA	Healthy	NA	C
+1650513	Healthy	42	Male	24.3	NA	Healthy	NA	D
+1652669	Healthy	42	Male	30.41	NA	Healthy	NA	D
+1654844	Healthy	38	Male	30.88	NA	Healthy	NA	C
+1661486	Healthy	60	Female	20.01	NA	Healthy	NA	C
+1668237	Healthy	45	Female	22.59	NA	Healthy	NA	D
+1673643	Healthy	60	Female	22.27	NA	Healthy	NA	C
+1673724	Healthy	59	Female	48.57	NA	Healthy	NA	C
+1677181	Healthy	26	Female	24.33	NA	Healthy	NA	C
+1688579	Healthy	49	Female	36.31	NA	Healthy	NA	C
+1691779	Healthy	42	Female	24.45	NA	Healthy	NA	C
+1697929	Healthy	62	Male	31.92	NA	Healthy	NA	D
+1701400	Healthy	30	Male	35.69	NA	Healthy	NA	C
+1709242	Healthy	31	Male	36.24	NA	Healthy	NA	C
+1710577	Healthy	47	Female	31.24	NA	Healthy	NA	C
+1711014	Healthy	33	Male	25.01	NA	Healthy	NA	B
+1717861	Healthy	24	Female	24.66	NA	Healthy	NA	C
+1719258	Healthy	51	Female	19.55	NA	Healthy	NA	C
+1726684	Healthy	48	Female	39.52	NA	Healthy	NA	B
+1737230	Healthy	47	Female	48.57	NA	Healthy	NA	B
+1738614	Healthy	52	Male	26.97	NA	Healthy	NA	B
+1740524	Healthy	38	Male	34.68	NA	Healthy	NA	B
+1746653	Healthy	40	Female	28.83	NA	Healthy	NA	B
+1757224	Healthy	27	Female	27.67	NA	Healthy	NA	C
+1765746	Healthy	62	Female	30.94	NA	Healthy	NA	D
+1770465	Healthy	57	Female	23.02	NA	Healthy	NA	B
+1770562	Healthy	45	Male	28.69	NA	Healthy	NA	C
+1774716	Healthy	40	Female	31.55	NA	Healthy	NA	C
+1779703	Healthy	55	Female	25.62	NA	Healthy	NA	D
+1781248	Healthy	51	Male	31.68	NA	Healthy	NA	C
+1782796	Healthy	59	Female	25.42	NA	Healthy	NA	C
+1783121	Healthy	63	Female	23.56	NA	Healthy	NA	B
+1788805	Healthy	36	Male	26.71	NA	Healthy	NA	C
+1789632	Healthy	67	Female	22.33	NA	Healthy	NA	C
+1790845	Healthy	48	Male	29.86	NA	Healthy	NA	C
+1794557	Healthy	34	Male	26.47	NA	Healthy	NA	C
+1796668	Healthy	56	Female	51.57	NA	Healthy	NA	C
+1816988	Healthy	63	Female	28.85	NA	Healthy	NA	C
+1820163	Healthy	49	Female	22.8	NA	Healthy	NA	C
+1824736	Healthy	50	Female	20.25	NA	Healthy	NA	C
+1825216	Healthy	39	Male	23.69	NA	Healthy	NA	D
+1826852	Healthy	35	Female	24.57	NA	Healthy	NA	D
+1829590	Healthy	34	Female	26.6	NA	Healthy	NA	D
+1840546	Healthy	38	Female	22.73	NA	Healthy	NA	B
+1842136	Healthy	50	Male	23.63	NA	Healthy	NA	C
+1844101	Healthy	50	Female	21.89	NA	Healthy	NA	C
+1849109	Healthy	72	Male	27.45	NA	Healthy	NA	C
+1851524	Healthy	60	Male	25.1	NA	Healthy	NA	D
+1852342	Healthy	34	Male	37.52	NA	Healthy	NA	C
+1853112	Healthy	47	Male	26.47	NA	Healthy	NA	D
+1853524	Healthy	39	Female	26.68	NA	Healthy	NA	C
+1859914	Healthy	51	Male	23.94	NA	Healthy	NA	B
+1864232	Healthy	56	Female	38.74	NA	Healthy	NA	B
+1865403	Healthy	64	Male	25.59	NA	Healthy	NA	D
+1865441	Healthy	48	Female	25.5	NA	Healthy	NA	D
+1866327	Healthy	54	Male	27.19	NA	Healthy	NA	D
+1866490	Healthy	53	Female	42.27	NA	Healthy	NA	D
+1870359	Healthy	42	Female	19.3	NA	Healthy	NA	B
+1873627	Healthy	47	Female	34.78	NA	Healthy	NA	C
+1874590	Healthy	35	Male	21.44	NA	Healthy	NA	B
+1881570	Healthy	44	Female	44.12	NA	Healthy	NA	D
+1891531	Healthy	31	Male	35.7	NA	Healthy	NA	C
+1891966	Healthy	74	Female	21.38	NA	Healthy	NA	D
+1893068	Healthy	62	Female	39.99	NA	Healthy	NA	C
+1894980	Healthy	46	Female	18.65	NA	Healthy	NA	B
+1898332	Healthy	65	Male	30.02	NA	Healthy	NA	C
+1902574	Healthy	34	Male	23.68	NA	Healthy	NA	D
+1914151	Healthy	31	Female	22.4	NA	Healthy	NA	D
+1916238	Healthy	53	Male	23.37	NA	Healthy	NA	C
+1918943	Healthy	34	Female	22.68	NA	Healthy	NA	C
+1920892	Healthy	47	Female	20.63	NA	Healthy	NA	C
+1922612	Healthy	43	Female	25.74	NA	Healthy	NA	D
+1927185	Healthy	57	Female	30.02	NA	Healthy	NA	C
+1927208	Healthy	57	Female	49.77	NA	Healthy	NA	C
+1931982	Healthy	51	Male	23.88	NA	Healthy	NA	D
+1932120	Healthy	54	Female	30.1	NA	Healthy	NA	C
+1934177	Healthy	28	Male	28.18	NA	Healthy	NA	B
+1936132	Healthy	46	Male	23.1	NA	Healthy	NA	C
+1943382	Healthy	64	Female	25.06	NA	Healthy	NA	C
+1943712	Healthy	67	Female	25.39	NA	Healthy	NA	C
+1944447	Healthy	33	Male	27.48	NA	Healthy	NA	D
+1948018	Healthy	44	Female	21.7	NA	Healthy	NA	D
+1958214	Healthy	59	Male	29.58	NA	Healthy	NA	C
+1962253	Healthy	54	Female	28.74	NA	Healthy	NA	C
+1962385	Healthy	48	Male	25.68	NA	Healthy	NA	C
+1968854	Healthy	37	Male	20.91	NA	Healthy	NA	B
+1974110	Healthy	53	Female	30.02	NA	Healthy	NA	C
+1975030	Healthy	49	Male	30.24	NA	Healthy	NA	B
+1975130	Healthy	67	Male	24.18	NA	Healthy	NA	C
+1990047	Healthy	43	Male	37.74	NA	Healthy	NA	C
+1994373	Healthy	78	Male	24.25	NA	Healthy	NA	B
+1998999	Healthy	56	Male	19.3	NA	Healthy	NA	C
+INCOV001-T3	INCOV	77	Female	33.65778285	121	INCOV no	3	E
+INCOV002-T3	INCOV	39	Male	27.90074717	73	INCOV yes	5	E
+INCOV003-T3	INCOV	64	Male	24.54698787	141	INCOV no	7	E
+INCOV005-T3	INCOV	75	Male	29.70312063	74	INCOV yes	4	E
+INCOV006-T3	INCOV	26	Male	34.38975627	76	INCOV no	4	E
+INCOV007-T3	INCOV	57	Male	23.09188292	61	INCOV yes	4	E
+INCOV009-T3	INCOV	65	Female	22.60791161	123	INCOV yes	4	E
+INCOV010-T3	INCOV	40	Female	24.84891291	85	INCOV yes	3	E
+INCOV012-T3	INCOV	73	Female	20.46875	87	INCOV yes	4	E
+INCOV013-T3	INCOV	71	Female	31.31036825	65	INCOV yes	7	E
+INCOV017-T3	INCOV	57	Male	24.64351562	63	INCOV yes	3	E
+INCOV018-T3	INCOV	69	Male	32.3602688	72	INCOV no	3	E
+INCOV019-T3	INCOV	81	Male	27.62572553	120	INCOV no	3	E
+INCOV021-T3	INCOV	67	Male	22.36012293	134	INCOV yes	3	B
+INCOV023-T3	INCOV	71	Female	33.64845377	60	INCOV yes	3	E
+INCOV024-T3	INCOV	61	Female	40.93206281	67	INCOV yes	3	E
+INCOV029-T3	INCOV	66	Female	36.09375	83	INCOV yes	5	E
+INCOV030-T3	INCOV	86	Female	25.82967446	100	INCOV yes	4	D
+INCOV036-T3	INCOV	51	Male	29.30816168	64	INCOV no	7	E
+INCOV039-T3	INCOV	38	Male	28.25176515	93	INCOV yes	1	E
+INCOV040-T3	INCOV	76	Female	20.25126998	61	INCOV no	3	E
+INCOV045-T3	INCOV	48	Female	22.50483759	68	INCOV no	4	E
+INCOV047-T3	INCOV	61	Male	34.42220075	104	INCOV no	5	E
+INCOV051-T3	INCOV	34	Male	29.61560981	94	INCOV no	5	E
+INCOV057-T3	INCOV	39	Female	29.16173073	60	INCOV yes	1 or 2	E
+INCOV059-T3	INCOV	82	Female	17.97846996	90	INCOV yes	4	E
+INCOV060-T3	INCOV	39	Female	28.97027067	72	INCOV yes	1 or 2	D
+INCOV061-T3	INCOV	61	Male	29.65336971	85	INCOV yes	1 or 2	E
+INCOV063-T2	INCOV	81	Female	28.97027067	67	INCOV yes	1 or 2	E
+INCOV066-T3	INCOV	53	Male	28.97027067	69	INCOV yes	1 or 2	E
+INCOV067-T3	INCOV	41	Female	25.06982249	89	INCOV yes	1 or 2	E
+INCOV068-T3	INCOV	66	Female	33.27462276	75	INCOV no	1 or 2	E
+INCOV069-T3	INCOV	61	Male	31.26369613	62	INCOV yes	3	E
+INCOV070-T3	INCOV	42	Male	30.36372376	89	INCOV yes	6	E
+INCOV071-T3	INCOV	80	Female	18.3975026	100	INCOV yes	4	E
+INCOV073-T3	INCOV	55	Female	27.99536407	77	INCOV yes	4	E
+INCOV075-T3	INCOV	57	Male	23.22906574	347	INCOV yes	7	E
+INCOV076-T3	INCOV	47	Female	28.97027067	65	INCOV no	1 or 2	E
+INCOV077-T3	INCOV	51	Female	28.97027067	72	INCOV no	1	E
+INCOV078-T3	INCOV	58	Female	28.97027067	169	INCOV yes	1	C
+INCOV079-T3	INCOV	83	Female	27.27056791	308	INCOV no	4	E
+INCOV081-T3	INCOV	23	Male	28.97027067	92	INCOV yes	1 or 2	E
+INCOV085-T3	INCOV	36	Female	28.97027067	76	INCOV no	1	D
+INCOV087-T3	INCOV	56	Male	27.19323098	128	INCOV yes	5	D
+INCOV090-T3	INCOV	69	Female	37.578125	326	INCOV no	4	E
+INCOV093-T3	INCOV	66	Male	27.75421288	64	INCOV yes	3	E
+INCOV097-T3	INCOV	26	Female	20.79685722	69	INCOV no	1 or 2	D
+INCOV100-T3	INCOV	32	Female	23.046875	95	INCOV no	1 or 2	D
+INCOV103-T3	INCOV	25	Female	36.56336609	66	INCOV no	1 or 2	D
+INCOV107-T3	INCOV	71	Male	30.27250952	60	INCOV no	1 or 2	D
+INCOV111-T3	INCOV	28	Male	48.54657706	102	INCOV no	4	E
+INCOV112-T3	INCOV	32	Male	28.97027067	74	INCOV no	1 or 2	D
+INCOV113-T3	INCOV	33	Female	21.92070986	66	INCOV yes	1 or 2	E
+INCOV115-T3	INCOV	69	Male	32.49392196	120	INCOV yes	3	D
+INCOV116-T3	INCOV	27	Female	21.44578641	69	INCOV yes	1 or 2	D
+INCOV124-T3	INCOV	48	Male	28.40617926	104	INCOV yes	4	E
+INCOV125-T3	INCOV	50	Male	24.4929113	97	INCOV no	4	E
+INCOV126-T3	INCOV	36	Female	24.44072847	60	INCOV no	1 or 2	D
+INCOV127-T3	INCOV	63	Male	29.23650292	63	INCOV no	1 or 2	D
+INCOV131-T3	INCOV	55	Female	30.77727173	61	INCOV no	1 or 2	D
+INCOV132-T3	INCOV	37	Female	28.97027067	65	INCOV no	1 or 2	D
+INCOV134-T3	INCOV	28	Female	27.79017404	64	INCOV yes	1 or 2	E
+INCOV137-T3	INCOV	53	Male	53.12721737	254	INCOV yes	5	D
+INCOV142-T3	INCOV	64	Male	28.66694674	81	INCOV yes	5	E
+INCOV151-T3	INCOV	55	Male	28.31420125	75	INCOV yes	1	E
+INCOV154-T3	INCOV	56	Male	28.60826336	64	INCOV no	1	D
+INCOV156-T3	INCOV	34	Male	30.6199522	61	INCOV yes	5	E
+INCOV167-T3	INCOV	49	Male	23.20591463	207	INCOV no	4	D
+INCOV177-T3	INCOV	55	Female	26.55192604	77	INCOV yes	5	E
+INCOV179-T3	INCOV	76	Male	30.5238286	161	INCOV yes	4	D
+INCOV187-T3	INCOV	34	Female	31.9921875	149	INCOV no	4	D
+INCOV188-T3	INCOV	41	Male	29.4500589	134	INCOV yes	5	E
+INCOV190-T3	INCOV	43	Female	27.69692585	138	INCOV no	6	E
+INCOV194-T3	INCOV	60	Male	31.31163708	110	INCOV no	4	E
+INCOV198-T3	INCOV	40	Female	48.90625	115	INCOV yes	6	E
